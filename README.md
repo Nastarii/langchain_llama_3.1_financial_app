@@ -4,7 +4,6 @@ This Virtual Finance Assistant App is designed to simplify personal and business
 
 ## Usage
 
----
 
 The app features a chatbot powered by the Llama 3.1 model with 8 billion parameters. This sophisticated model is capable of understanding and assisting with various financial tasks, making it a powerful tool for users who want to manage their finances effectively. The chatbot operates locally, ensuring privacy and security for your financial data.
 
